@@ -1,0 +1,61 @@
+[33mcommit 33436d096ad6d262c5a11f6509cda30e55ff93ec[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Luke Poirrier <lukepoirrier5@gmail.com>
+Date:   Wed Jun 16 18:48:41 2021 -0400
+
+    This is a test upload from the command line
+
+[33mcommit 1d6eb5b178170ec9a7beb7aab4f45a90c38c82d6[m
+Author: lukecp5 <85532744+lukecp5@users.noreply.github.com>
+Date:   Wed Jun 16 18:46:00 2021 -0400
+
+    Fixed error in comment
+
+[33mcommit 626d0c9fff59ad8120c89d93c7fa33a239a70868[m
+Author: lukecp5 <85532744+lukecp5@users.noreply.github.com>
+Date:   Wed Jun 16 18:44:34 2021 -0400
+
+    Added Comments for the Cascading Style Sheets
+
+[33mcommit 21810bc1f7b8d9702289d90e9bbbb7eddf2e4831[m
+Author: lukecp5 <85532744+lukecp5@users.noreply.github.com>
+Date:   Wed Jun 16 18:29:24 2021 -0400
+
+    Tidied Up the benefit selectors in style.css
+
+[33mcommit 904c6241315ef1a6066b46ef270fbf865f4b419d[m
+Author: lukecp5 <85532744+lukecp5@users.noreply.github.com>
+Date:   Wed Jun 16 18:13:12 2021 -0400
+
+    Session 1 homework
+    
+    - Replaced non-semantic html elements with semantic tags
+    - Ensured elements follow a logical structure independent of styling and positioning
+    - Added alt and title attributes to images for accessibility
+    - Ensured heading attributes fall in sequential order
+    - Added a new descriptive and concise title
+
+[33mcommit 0ad777f74450f4e52f3da2fb018d20407daa1f6c[m
+Author: lukecp5 <85532744+lukecp5@users.noreply.github.com>
+Date:   Wed Jun 16 17:05:25 2021 -0400
+
+    Initial upload of assets(CSS and Images)
+
+[33mcommit f84be699ba5cc4c8d0d5f2b0822812119c25cf22[m
+Author: lukecp5 <85532744+lukecp5@users.noreply.github.com>
+Date:   Wed Jun 16 17:00:45 2021 -0400
+
+    Upload of initial files
+    
+    This is the original version of the website for our homework.
+
+[33mcommit 88fded3cc36917010c6f5c42f345f81b89e6e89e[m
+Author: lukecp5 <85532744+lukecp5@users.noreply.github.com>
+Date:   Wed Jun 16 16:51:42 2021 -0400
+
+    Delete README.md
+
+[33mcommit bcb7c037f720403b243eb2008871b25e2451ca61[m
+Author: lukecp5 <85532744+lukecp5@users.noreply.github.com>
+Date:   Wed Jun 16 16:37:22 2021 -0400
+
+    Initial commit
